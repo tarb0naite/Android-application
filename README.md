@@ -1,11 +1,11 @@
 
 ## Features
 
-✅ Fetch and display posts with author names  
-✅ Data stored in Room database for offline use  
-✅ Pull-to-refresh to update data  
-✅ Error handling with a dialog (Retry / Cancel options)  
-✅ Clean architecture: Repository + ViewModel + Compose UI
+• Fetch and display posts with author names  
+• Data stored in Room database for offline use  
+• Pull-to-refresh to update data  
+• Error handling with a dialog (Retry / Cancel options)  
+• Clean architecture: Repository + ViewModel + Compose UI
 
 ---
 
