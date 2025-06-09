@@ -23,7 +23,7 @@
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/your-username/posts-viewer-app.git
+    git clone https://github.com/tarb0naite/Android-application.git
     ```
 
 2. Open in Android Studio and let Gradle sync.
